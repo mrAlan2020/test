@@ -3,3 +3,4 @@ Ram 8 gd.
 sd 1 tb
 pantalla de 28'
 parlantes
+mouse
